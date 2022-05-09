@@ -1,5 +1,6 @@
 # X-VLM: learning multi-grained vision language alignments
 
+Modified Code from the X-VLM repo and added quantization as a part of our project.
 
 **[Multi-Grained Vision Language Pre-Training: Aligning Texts with Visual Concepts](https://arxiv.org/abs/2111.08276). Yan Zeng, Xinsong Zhang, Hang Li. arXiv 2021.**
 
